@@ -1,1 +1,3 @@
-# Computer-Science-Note
+# Computer Science Study
+
+Computer Science study note
