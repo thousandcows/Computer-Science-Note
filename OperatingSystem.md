@@ -1,7 +1,9 @@
 # Operating System
 
+## 1. Introduction
 <details>
-<summary>## 1. Introduction</summary>
+<summary>Content</summary>
+
 ### 1. Definition
 * Kernel that stays in memory
 * Utilities
@@ -44,6 +46,7 @@
 ### 
 
 </details>
+
 ----
 ## 2. 
 ----
