@@ -1,5 +1,6 @@
 # Operating System
-
+* Personal study note, vocabularies and expressions may not be accurate. 
+* Feedbacks are always welcome!
 ## 1. Introduction
 <details>
 <summary>Content</summary>
