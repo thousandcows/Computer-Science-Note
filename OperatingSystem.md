@@ -44,8 +44,17 @@
     - Punch Card system
 ----
 
-### 
+### 4. Simple structure
+* CPU -> cpu scheduling
+* Memory -> management
+* Disk -> file system, scheduling
+* I/O devices -> management, interrupt
 
+* Process management
+* Command line interpreter
+* etc
+
+##### Think yourself as OS
 </details>
 
 ----
