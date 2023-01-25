@@ -8,3 +8,9 @@
 ## 2. TCP/IP
 
 * TCP: [https://en.wikipedia.org/wiki/Transmission_Control_Protocol]
+* WebSocket: [https://en.wikipedia.org/wiki/WebSocket]
+
+## 3. Dealing with Binary Data
+* struct - Interpret bytes as packed binary data [https://docs.python.org/3/library/struct.html?highlight=struct#module-struct]
+
+* Buffer Protocol: [https://docs.python.org/3/c-api/buffer.html#bufferobjects]
