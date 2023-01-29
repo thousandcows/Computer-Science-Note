@@ -58,7 +58,22 @@
 </details>
 
 ----
-## 2. 
+## 2. System Structure & Program Execution
+<details>
+<summary>Content</summary>
+
+### 1. CPU
+#### mode bit
+#### interrupt line
+#### registers
+### 2. Memory
+#### DMA controller
+### 3. I/O Device
+#### Device Controller
+#### Local Buffer
+### 4. Timer
+</details>
+
 ----
 ## reference
 - lecture link: [http://www.kocw.net/home/search/kemView.do?kemId=1046323]
