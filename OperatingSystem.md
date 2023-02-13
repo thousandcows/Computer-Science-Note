@@ -74,6 +74,9 @@
 ### 4. Timer
 </details>
 
+## Specific topics
+* Blocking and Non bloking: [https://www.geeksforgeeks.org/blocking-and-nonblocking-io-in-operating-system/]
+
 ----
 ## reference
 - lecture link: [http://www.kocw.net/home/search/kemView.do?kemId=1046323]
