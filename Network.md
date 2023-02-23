@@ -28,7 +28,8 @@
 </detail>
 
 ## HTTP
-
+* How HTTP works: [https://howhttps.works]
+* TLS termination proxy: [https://en.wikipedia.org/wiki/TLS_termination_proxy]
 ----
 
 ## Reference
