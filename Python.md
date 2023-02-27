@@ -16,3 +16,6 @@
 * Getting Started with Async Features in Python: [https://realpython.com/python-async-features/]
 ## Test
 * Pytest: [https://docs.pytest.org/en/7.2.x/contents.html]
+
+## ETC
+* Bitwise operations in Python: [https://realpython.com/python-bitwise-operators/]
