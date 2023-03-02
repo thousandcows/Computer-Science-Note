@@ -17,6 +17,7 @@
 * MySQL Control Flow Functions and Expressions: [https://www.mysqltutorial.org/mysql-control-flow-functions/]
 * Learn MySQL: Control Flow functions: [https://www.sqlshack.com/learn-mysql-control-flow-functions/]
 * Comparison Functions and Operators: [https://prestodb.io/docs/current/functions/comparison.html]
+* MySQL Stored Function: [https://www.mysqltutorial.org/mysql-stored-function/]
 
 ### Procedure
 * MySQL Stored Procedure: [https://www.w3resource.com/mysql/mysql-procedure.php]
