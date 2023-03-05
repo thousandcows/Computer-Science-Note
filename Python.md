@@ -11,6 +11,9 @@
 
 ### Hashes and Equality
 * Python Hashes and Equality: [https://hynek.me/articles/hashes-and-equality/]
+
+## Regular expression
+* Regular Expression HOWTO: [https://docs.python.org/3/howto/regex.html#regex-howto]
 ## Asynchronous programming in Python
 * Async / Await with tech details in FaseAPI: [https://fastapi.tiangolo.com/async/#very-technical-details]
 * Getting Started with Async Features in Python: [https://realpython.com/python-async-features/]
