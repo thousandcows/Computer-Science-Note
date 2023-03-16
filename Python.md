@@ -12,6 +12,9 @@
 ### Hashes and Equality
 * Python Hashes and Equality: [https://hynek.me/articles/hashes-and-equality/]
 
+### Context Managers
+* Context Managers: [https://book.pythontips.com/en/latest/context_managers.html]
+
 ## Regular expression
 * Regular Expression HOWTO: [https://docs.python.org/3/howto/regex.html#regex-howto]
 ## Asynchronous programming in Python
