@@ -21,6 +21,10 @@
 * Async / Await with tech details in FaseAPI: [https://fastapi.tiangolo.com/async/#very-technical-details]
 * Getting Started with Async Features in Python: [https://realpython.com/python-async-features/]
 * Asyncio: [https://tech.buzzvil.com/blog/asyncio-no-1-coroutine-and-eventloop/]
+
+## Classes
+* super() - Python's super() considered super!: [https://rhettinger.wordpress.com/2011/05/26/super-considered-super/]
+
 ## Test
 * Pytest: [https://docs.pytest.org/en/7.2.x/contents.html]
 
