@@ -26,3 +26,6 @@
 * MySQL Stored Procedure: [https://www.w3resource.com/mysql/mysql-procedure.php]
 * MySQL Create Procedure: [https://www.mysqltutorial.org/getting-started-with-mysql-stored-procedures.aspx]
 * Advantages of Stored Procedures: [https://docs.oracle.com/en/database/oracle/oracle-database/12.2/jjdev/stored-procedure-advantages.html#GUID-B6F864FC-5C87-45DC-BBEC-2CEE469A939C]
+
+### Index
+* Query Performance Optimization[https://www.oreilly.com/library/view/high-performance-mysql/9780596101718/ch04.html]
